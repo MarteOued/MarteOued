@@ -1,65 +1,315 @@
-<h1 align="center">Hi, I'm Martine 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Data Scientist Junior & Full-Stack Developer</b><br>
-  M1 Informatique @ Université Lumière Lyon 2 — Spécialisation Data Science & ML<br>
-  🎯 <b>Looking for an alternance from September 2026</b>
+<!-- BANNIÈRE TYPING -->
+<a href="https://portfoliomarte.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Martine+Ouedraogo+%F0%9F%91%8B;Data+Scientist+Junior+%E2%80%A2+Full-Stack+Developer;Master+1+Informatique+%E2%80%A2+Lyon+2;Looking+for+an+Alternance+%E2%80%A2+September+2026;Python+%E2%80%A2+SQL+%E2%80%A2+ML+%E2%80%A2+NLP+%E2%80%A2+LLM" alt="Typing intro" />
+</a>
+
+<br />
+
+<!-- HEADLINE -->
+<h3>📍 Lyon, France · 🎓 M1 Informatique — Spécialisation Data Science &amp; Machine Learning</h3>
+
+<!-- LIENS RAPIDES -->
+<p>
+  <a href="https://portfoliomarte.vercel.app">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-portfoliomarte.vercel.app-6366F1?style=for-the-badge&labelColor=1F2937" />
+  </a>
+  <a href="https://www.linkedin.com/in/marte-oued">
+    <img src="https://img.shields.io/badge/LinkedIn-marte--oued-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F2937" />
+  </a>
+  <a href="mailto:marteoued11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-marteoued11%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F2937" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://portfoliomarte.vercel.app">🌐 Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/marte-oued">💼 LinkedIn</a> ·
-  <a href="mailto:marteoued11@gmail.com">📧 Email</a>
-</p>
+<!-- COMPTEUR DE VUES -->
+<img src="https://komarev.com/ghpvc/?username=MarteOued&label=Profile%20views&color=6366F1&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/github/followers/MarteOued?label=Followers&style=flat-square&color=6366F1" alt="followers" />
+
+</div>
 
 ---
 
-### 🚀 About me
+## 🎯 À propos de moi
 
-I'm a Master 1 Computer Science student passionate about turning data into smart, deployable products. I work across the full stack — from data exploration to ML modeling, from API to interface — because I believe the best data projects don't stop at a Jupyter notebook.
+```python
+class Martine:
+    def __init__(self):
+        self.name        = "Martine Ouedraogo"
+        self.education   = "M1 Informatique · Lyon 2 · 2026"
+        self.specialty   = ["Data Science", "Machine Learning", "Full-Stack Dev"]
+        self.languages   = ["French (native)", "English (B1/B2)"]
+        self.countries   = ["🇲🇱 Mali", "🇲🇦 Maroc", "🇧🇪 Belgique", "🇫🇷 France"]
+        self.current_job = "Stagiaire Full-Stack Python & Data Science @ Oued Service"
+        self.looking_for = "Alternance Data Scientist / ML Engineer · September 2026"
+        self.passions    = ["LLM", "NLP", "Predictive Modeling", "Data Storytelling"]
 
-Currently doing a **Full-Stack Python & Data Science internship at Oued Service**, where I refactor a FastAPI app, build sales forecasting models, and integrate AI prototypes into business dashboards.
+    def say_hi(self):
+        print("Thanks for visiting — let's build something impactful together!")
 
-### 🛠️ Tech Stack
+me = Martine()
+me.say_hi()
+```
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-**Data Science & ML**
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
-**Web & DevOps**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)
-
-### 📊 Featured Projects
-
-🤖 **Bac Results Prediction** — ML model achieving **87% accuracy** on 5,000+ observations (Random Forest, XGBoost, RNN) + Power BI dashboard.
-
-🔍 **[Text Search Engine](https://github.com/MarteOued/moteur-recherche-ia)** — TF-IDF search engine built from scratch in Python, indexing Reddit & Arxiv data.
-
-🎯 **[Planning Poker](https://github.com/MarteOued/planning-poker)** — Real-time agile estimation app (React + Socket.io).
-
-✈️ **Travel Paradise** — Full-stack tourism platform (Symfony 7 + React Native + JWT).
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarteOued&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarteOued&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+> 🎓 **Profil hybride** : je parle le langage des analystes, des data scientists ET des développeurs.
+> 🌍 **Parcours international** : 4 pays, 4 écoles, une vraie capacité d'adaptation.
+> 🚀 **Pragmatique** : la meilleure solution est celle qui fonctionne en production, pas dans un notebook.
 
 ---
 
-<p align="center"><i>📩 Open to opportunities — let's build something impactful together!</i></p>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### Data Science · Machine Learning · IA
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+### Business Intelligence · Visualisation
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Web Development · DevOps
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🏆 5 projets qui résument mon profil — du Machine Learning à la Business Intelligence
+
+</div>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 Bac Prediction ML
+<a href="https://github.com/MarteOued/bac-prediction-ml">
+  <img src="https://img.shields.io/badge/View_Repo-→-6366F1?style=for-the-badge" />
+</a>
+
+> **88.9% accuracy · AUC 0.908**
+> Modèle ML pour prédire la réussite au baccalauréat à partir des notes du lycée.
+
+🤖 **4 algorithmes comparés** : Logistic Regression, Random Forest, Gradient Boosting, MLP
+📊 **Cross-validation 5-fold** stratifiée pour la robustesse
+🎯 **Outil de prédiction interactif** Streamlit avec 3 profils types
+
+`Python` · `Scikit-Learn` · `Streamlit` · `Plotly`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 LLM Émotions B2B
+<a href="https://github.com/MarteOued/llm-emotions-b2b-prototype">
+  <img src="https://img.shields.io/badge/View_Repo-→-A855F7?style=for-the-badge" />
+</a>
+
+> **Prototype de prompt engineering avancé**
+> Étude des variations linguistiques contrôlées d'un LLM en relation client B2B.
+
+🎭 **5 scénarios × 4 émotions × 3 niveaux de familiarité = 60 combinaisons**
+🛡️ **5 contraintes éthiques explicites** dans le méta-prompt
+🤖 **Mode dual** : OpenAI réel ou mock paramétrique
+
+`Python` · `OpenAI` · `Streamlit` · `Prompt Engineering`
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏥 Hospital BI Warehouse
+<a href="https://github.com/MarteOued/hospital-bi-warehouse">
+  <img src="https://img.shields.io/badge/View_Repo-→-06A77D?style=for-the-badge" />
+</a>
+
+> **Système décisionnel hospitalier complet**
+> ETL Python + modèle en étoile + 3 dashboards Tableau.
+
+⭐ **1 table de faits + 6 dimensions** (Patients, Docteurs, Services, Temps, Diagnostic, Traitement)
+📊 **3 dashboards** : Vue Globale, Médicale, Financière
+🔬 **Pipeline ETL complet** sur 43 108 lignes brutes
+
+`Python` · `Pandas` · `Tableau` · `Star Schema` · `OLAP`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔍 AI Search Engine
+<a href="https://github.com/MarteOued/ai-search-engine">
+  <img src="https://img.shields.io/badge/View_Repo-→-2E86AB?style=for-the-badge" />
+</a>
+
+> **Moteur de recherche TF-IDF from scratch**
+> Indexation et ranking sur Reddit + Arxiv autour de l'IA.
+
+🔡 **TF-IDF implémenté à la main** (pas de scikit-learn pour l'indexation)
+🏗️ **Architecture POO** : Singleton + Factory pattern
+📐 **Similarité cosinus** pour le ranking
+
+`Python` · `NLP` · `TF-IDF` · `Streamlit` · `Plotly`
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎯 Agile Planning Poker
+<a href="https://github.com/MarteOued/agile-planning-poker">
+  <img src="https://img.shields.io/badge/View_Repo-→-EC4899?style=for-the-badge" />
+</a>
+
+> **App full-stack temps réel pour équipes agiles**
+> Estimation collaborative avec WebSocket + 2 modes de vote.
+
+⚡ **Real-time** via Socket.io · multi-joueurs synchrones
+🗳️ **Modes Strict (unanimité) et Moyenne** (Fibonacci)
+☕ **Pause Café** avec sauvegarde automatique de session
+
+`React` · `Node.js` · `Socket.io` · `Tailwind` · `Jest`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio
+<a href="https://portfoliomarte.vercel.app">
+  <img src="https://img.shields.io/badge/View_Live-→-F18F01?style=for-the-badge" />
+</a>
+
+> **Vitrine de tous mes projets data &amp; dev**
+> Site React/Vite responsive avec animations et démos vidéo.
+
+🎨 **Design moderne** : Tailwind + Framer Motion
+🎬 **Démos YouTube embarquées** pour chaque projet
+📱 **100% responsive** mobile-first
+
+`React 19` · `Vite` · `Tailwind` · `Framer Motion`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/MarteOued">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MarteOued&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=A855F7&text_color=C9D1D9" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarteOued&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" />
+</a>
+
+<br />
+
+<a href="https://github.com/MarteOued">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarteOued&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=A855F7&fire=EC4899&currStreakLabel=6366F1" />
+</a>
+
+<br />
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=MarteOued&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
+</a>
+
+</div>
+
+---
+
+## 🎬 Now Working On
+
+<div align="center">
+
+| Projet | Description | Status |
+|--------|-------------|:------:|
+| 🩺 **Hospital BI v2** | Refonte des 3 dashboards Tableau avec design system Healthcare Pro | 🟡 En cours |
+| 📹 **Demo Videos** | Voix off ElevenLabs pour les 5 projets — diffusion YouTube + LinkedIn | 🟡 En cours |
+| 💼 **Alternance Hunt** | Recherche active alternance Data Scientist / ML Engineer Sept. 2026 | 🔴 Top priorité |
+
+</div>
+
+---
+
+## 💼 Looking for Alternance — September 2026
+
+<div align="center">
+
+### 🎯 Postes ciblés
+**Data Scientist** · **Data Analyst** · **ML Engineer** · **Data Engineer**
+
+### 📅 Rythme
+**3 semaines en formation** / 2 semaines en entreprise · Temps plein dès juillet 2026
+
+### 📍 Mobilité
+**France entière** · Sur site, hybride ou remote
+
+<br />
+
+<a href="mailto:marteoued11@gmail.com">
+  <img src="https://img.shields.io/badge/📧%20Contact_me-marteoued11%40gmail.com-6366F1?style=for-the-badge&labelColor=1F2937" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's connect
+
+<a href="https://www.linkedin.com/in/marte-oued">
+  <img src="https://img.shields.io/badge/LinkedIn-marte--oued-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://portfoliomarte.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Live-6366F1?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:marteoued11@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+<br /><br />
+
+<i>"The best data projects don't stop at a Jupyter notebook —<br>
+they understand the business, build solid models, and ship to production."</i>
+
+<br />
+
+⭐ <b>If you like my work, consider starring a project!</b> ⭐
+
+</div>
