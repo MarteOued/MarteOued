@@ -33,28 +33,46 @@
 
 ## 🎯 À propos de moi
 
-```python
-class Martine:
-    def __init__(self):
-        self.name        = "Martine Ouedraogo"
-        self.education   = "M1 Informatique · Lyon 2 · 2026"
-        self.specialty   = ["Data Science", "Machine Learning", "Full-Stack Dev"]
-        self.languages   = ["French (native)", "English (B1/B2)"]
-        self.countries   = ["🇲🇱 Mali", "🇲🇦 Maroc", "🇧🇪 Belgique", "🇫🇷 France"]
-        self.current_job = "Stagiaire Full-Stack Python & Data Science @ Oued Service"
-        self.looking_for = "Alternance Data Scientist / ML Engineer · September 2026"
-        self.passions    = ["LLM", "NLP", "Predictive Modeling", "Data Storytelling"]
+> **De l'analyse de données au Machine Learning, en passant par le code.**
+> Certains choisissent entre data et développement. J'ai décidé de maîtriser les deux —
+> parce que les meilleurs projets data ne s'arrêtent pas à un notebook Jupyter.
 
-    def say_hi(self):
-        print("Thanks for visiting — let's build something impactful together!")
+<table>
+<tr>
+<td width="50%" valign="top">
 
-me = Martine()
-me.say_hi()
-```
+### 👩‍💻 Qui je suis
 
-> 🎓 **Profil hybride** : je parle le langage des analystes, des data scientists ET des développeurs.
-> 🌍 **Parcours international** : 4 pays, 4 écoles, une vraie capacité d'adaptation.
-> 🚀 **Pragmatique** : la meilleure solution est celle qui fonctionne en production, pas dans un notebook.
+- 🎓 **Master 1 Informatique** · Université Lumière Lyon 2
+- 🔬 Spécialisation **Data Science & Machine Learning**
+- 💼 Stagiaire **Full-Stack Python & Data Science** @ Oued Service
+- 🎯 En recherche d'**alternance · Septembre 2026**
+- 📍 Basée à **Lyon** · Mobilité France entière
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 Mon parcours
+
+| Pays | Étape |
+|------|-------|
+| 🇲🇱 Mali | École initiale — fondamentaux |
+| 🇲🇦 Maroc | Licence SUPMTI · Ingénierie SI |
+| 🇧🇪 Belgique | Bachelor ECOLE-IT · Bruxelles |
+| 🇫🇷 France | Master 1 · Lyon 2 (en cours) |
+
+**4 pays · 4 écoles · une vraie capacité d'adaptation.**
+
+</td>
+</tr>
+</table>
+
+### 🔥 Ce qui me caractérise
+
+- ✨ **Profil hybride** : je parle le langage des analystes, des data scientists ET des développeurs
+- 🚀 **Vision end-to-end** : de la question business au produit final déployé
+- 🎯 **Pragmatique** : la meilleure solution est celle qui fonctionne en production
+- 💡 **Curieuse** : passionnée par les LLM, le NLP, la modélisation prédictive et le data storytelling
 
 ---
 
@@ -227,42 +245,45 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Statistics
+## 💼 Mission en cours
 
 <div align="center">
 
-<a href="https://github.com/MarteOued">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MarteOued&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=A855F7&text_color=C9D1D9" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarteOued&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" />
-</a>
-
-<br />
-
-<a href="https://github.com/MarteOued">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarteOued&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=A855F7&fire=EC4899&currStreakLabel=6366F1" />
-</a>
-
-<br />
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarteOued&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
-</a>
+### 🚀 Stagiaire Full-Stack Python & Data Science @ Oued Service
 
 </div>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🎬 Now Working On
+#### 🎯 Mes missions actuelles
 
-<div align="center">
+- 🔧 **Refactorisation** d'une application FastAPI (architecture, sécurité, tests)
+- 📊 **Analyse exploratoire** des données ventes, stocks, clients
+- 📈 **Définition des KPI métiers** de pilotage opérationnel
+- 🤖 **Modèle de prévision des ventes** (Scikit-Learn, séries temporelles)
+- 🚨 **Détection d'anomalies** sur les flux de transactions
+- ⚡ **Intégration prototype IA** dans dashboard Streamlit
 
-| Projet | Description | Status |
-|--------|-------------|:------:|
-| 🩺 **Hospital BI v2** | Refonte des 3 dashboards Tableau avec design system Healthcare Pro | 🟡 En cours |
-| 📹 **Demo Videos** | Voix off ElevenLabs pour les 5 projets — diffusion YouTube + LinkedIn | 🟡 En cours |
-| 💼 **Alternance Hunt** | Recherche active alternance Data Scientist / ML Engineer Sept. 2026 | 🔴 Top priorité |
+</td>
+<td width="50%" valign="top">
 
-</div>
+#### 🛠️ Stack utilisée
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+📍 Blanc-Mesnil, Île-de-France
+📅 Avril 2026 — En cours
+
+</td>
+</tr>
+</table>
 
 ---
 
