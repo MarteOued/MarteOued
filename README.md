@@ -23,10 +23,6 @@
   </a>
 </p>
 
-<!-- COMPTEUR DE VUES -->
-<img src="https://komarev.com/ghpvc/?username=MarteOued&label=Profile%20views&color=6366F1&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/github/followers/MarteOued?label=Followers&style=flat-square&color=6366F1" alt="followers" />
-
 </div>
 
 ---
