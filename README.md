@@ -2,7 +2,7 @@
 
 <!-- BANNIÈRE TYPING -->
 <a href="https://portfoliomarte.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Martine+Ouedraogo+%F0%9F%91%8B;Data+Science+%E2%80%A2+Machine+Learning+%E2%80%A2+Data+Analyst;Master+2+MALIA+%E2%80%A2+Lyon+2;Looking+for+an+Internship+%E2%80%A2+March+2027;Python+%E2%80%A2+SQL+%E2%80%A2+ML+%E2%80%A2+BI+%E2%80%A2+Full-Stack" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;duration=2800&amp;pause=900&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Hi%2C+I%27m+Martine+Ouedraogo+%F0%9F%91%8B;Data+Science+%E2%80%A2+Machine+Learning+%E2%80%A2+Data+Analyst;Master+2+MALIA+%E2%80%A2+Lyon+2;Looking+for+an+Internship+%E2%80%A2+March+2027;Python+%E2%80%A2+SQL+%E2%80%A2+ML+%E2%80%A2+BI+%E2%80%A2+Full-Stack" alt="Typing intro" />
 </a>
 
 <br />
