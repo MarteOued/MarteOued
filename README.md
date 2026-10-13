@@ -2,13 +2,13 @@
 
 <!-- BANNIÈRE TYPING -->
 <a href="https://portfoliomarte.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Martine+Ouedraogo+%F0%9F%91%8B;Data+Scientist+Junior+%E2%80%A2+Full-Stack+Developer;Master+1+Informatique+%E2%80%A2+Lyon+2;Looking+for+an+Alternance+%E2%80%A2+September+2026;Python+%E2%80%A2+SQL+%E2%80%A2+ML+%E2%80%A2+NLP+%E2%80%A2+LLM" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Martine+Ouedraogo+%F0%9F%91%8B;Data+Science+%E2%80%A2+Machine+Learning+%E2%80%A2+Data+Analyst;Master+2+MALIA+%E2%80%A2+Lyon+2;Looking+for+an+Internship+%E2%80%A2+March+2027;Python+%E2%80%A2+SQL+%E2%80%A2+ML+%E2%80%A2+BI+%E2%80%A2+Full-Stack" alt="Typing intro" />
 </a>
 
 <br />
 
 <!-- HEADLINE -->
-<h3>📍 Lyon, France · 🎓 M1 Informatique — Spécialisation Data Science &amp; Machine Learning</h3>
+<h3>📍 Lyon, France · 🎓 M2 Machine Learning for AI (MALIA) — Université Lyon 2</h3>
 
 <!-- LIENS RAPIDES -->
 <p>
@@ -43,10 +43,10 @@
 
 ### 👩‍💻 Qui je suis
 
-- 🎓 **Master 1 Informatique** · Université Lumière Lyon 2
-- 🔬 Spécialisation **Data Science & Machine Learning**
-- 💼 Stagiaire **Full-Stack Python & Data Science** @ Oued Service
-- 🎯 En recherche d'**alternance · Septembre 2026**
+- 🎓 **Master 2 Machine Learning for AI (MALIA)** · Université Lumière Lyon 2
+- 🔬 Data Science, Machine Learning, Data Analyst / BI
+- 💼 Ex-stagiaire **Full-Stack & Data** @ Oued Services · **Data & Analyse** @ STIB
+- 🎯 En recherche d'un **stage de 4 à 6 mois · dès mars 2027**
 - 📍 Basée à **Lyon** · Mobilité France entière
 
 </td>
@@ -57,9 +57,9 @@
 | Pays | Étape |
 |------|-------|
 | 🇲🇱 Mali | École initiale — fondamentaux |
-| 🇲🇦 Maroc | Licence SUPMTI · Ingénierie SI |
-| 🇧🇪 Belgique | Bachelor ECOLE-IT · Bruxelles |
-| 🇫🇷 France | Master 1 · Lyon 2 (en cours) |
+| 🇲🇦 Maroc | Licence SUPMTI · Génie Logiciel & SI |
+| 🇧🇪 Belgique | Bachelor ECOLE-IT · Bruxelles · stage STIB |
+| 🇫🇷 France | Master 1 puis Master 2 MALIA · Lyon 2 |
 
 **4 pays · 4 écoles · une vraie capacité d'adaptation.**
 
@@ -87,6 +87,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Data Science · Machine Learning · IA
 
@@ -94,6 +97,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=seaborn&logoColor=white)
@@ -116,6 +121,9 @@
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -140,11 +148,90 @@
 
 <div align="center">
 
-### 🏆 5 projets qui résument mon profil — du Machine Learning à la Business Intelligence
+### 🏆 Projets qui résument mon profil — de la Business Intelligence au Machine Learning
 
 </div>
 
 <table>
+<tr>
+
+<td width="50%" valign="top">
+
+### ⚡ Prévision conso électrique
+<a href="https://github.com/MarteOued/Projet-series-temporelles">
+  <img src="https://img.shields.io/badge/View_Repo-→-0EA5E9?style=for-the-badge" />
+</a>
+<a href="https://prevision-electricite-france.streamlit.app/">
+  <img src="https://img.shields.io/badge/Live_App-→-6366F1?style=for-the-badge" />
+</a>
+
+> **MAE 1 331 MW** sur un test jamais utilisé pour régler les modèles
+> Prévision à 14 h des 24 valeurs horaires de J+1 (RTE + Météo-France).
+
+🛡️ **Protocole anti-fuite** : test d'invariance et 508 tests automatisés
+📈 **4 modèles comparés** : linéaire, météo, gradient boosting, ARMA
+📊 **Dashboard Streamlit** en 12 pages
+
+`Python` · `Pandas` · `Scikit-Learn` · `Streamlit` · `pytest`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧩 Co-clustering ordinal (R)
+<a href="https://github.com/asmabahrini453/ordinalClust">
+  <img src="https://img.shields.io/badge/View_Repo-→-8B5CF6?style=for-the-badge" />
+</a>
+
+> **Package R** de co-clustering de données ordinales
+> Modèle à blocs latents avec loi CUB, SEM-Gibbs et critère ICL.
+
+🔀 **Lignes et colonnes** regroupées simultanément
+🎲 **Simulateur** de données ordinales inclus
+✅ **Tests unitaires** par module et vignette
+
+`R` · `Modèle à blocs latents` · `CUB` · `SEM` · `ICL`
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🍗 Mali Élevage Restaurant
+🔒 *Code privé : projet client*
+
+> **Application de gestion en production** (stage Oued Services)
+> Caisse, cuisine temps réel, stocks, livraison, salaires et prévisions financières.
+
+🧾 **Caisse POS** et cuisine KDS en WebSocket
+🔐 **JWT en cookies httpOnly**, rôles et journal d'audit
+🐳 **Docker Compose + CI/CD** sur VPS, 41 tables PostgreSQL
+
+`Django REST` · `React` · `PostgreSQL` · `Docker` · `GitHub Actions`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏥 Hospital BI Warehouse
+<a href="https://github.com/MarteOued/hospital-bi-warehouse">
+  <img src="https://img.shields.io/badge/View_Repo-→-06A77D?style=for-the-badge" />
+</a>
+
+> **Entrepôt de données hospitalier**
+> 10 000 consultations, 7 tables, modèle en étoile enrichi en flocon.
+
+⭐ **9 KPIs** métier
+📊 **2 dashboards Tableau** interactifs avec drill-down
+🔬 **Pipeline ETL** Python (doublons, formats, clés étrangères)
+
+`Python` · `Pandas` · `Tableau` · `ETL` · `OLAP`
+
+</td>
+
+</tr>
 <tr>
 
 <td width="50%" valign="top">
@@ -157,9 +244,9 @@
 > **88.9% accuracy · AUC 0.908**
 > Modèle ML pour prédire la réussite au baccalauréat à partir des notes du lycée.
 
-🤖 **4 algorithmes comparés** : Logistic Regression, Random Forest, Gradient Boosting, MLP
-📊 **Cross-validation 5-fold** stratifiée pour la robustesse
-🎯 **Outil de prédiction interactif** Streamlit avec 3 profils types
+🤖 **4 algorithmes comparés** : LR, Random Forest, Gradient Boosting, MLP
+📊 **Cross-validation 5-fold** stratifiée
+🎯 **Outil de prédiction** Streamlit
 
 `Python` · `Scikit-Learn` · `Streamlit` · `Plotly`
 
@@ -173,11 +260,11 @@
 </a>
 
 > **Prototype de prompt engineering avancé**
-> Étude des variations linguistiques contrôlées d'un LLM en relation client B2B.
+> Variations linguistiques contrôlées d'un LLM en relation client B2B.
 
-🎭 **5 scénarios × 4 émotions × 3 niveaux de familiarité = 60 combinaisons**
-🛡️ **5 contraintes éthiques explicites** dans le méta-prompt
-🤖 **Mode dual** : OpenAI réel ou mock paramétrique
+🎭 **60 combinaisons** : 5 scénarios × 4 émotions × 3 familiarités
+🛡️ **5 contraintes éthiques** dans le méta-prompt
+🤖 **Mode dual** : OpenAI réel ou mock
 
 `Python` · `OpenAI` · `Streamlit` · `Prompt Engineering`
 
@@ -185,24 +272,6 @@
 
 </tr>
 <tr>
-
-<td width="50%" valign="top">
-
-### 🏥 Hospital BI Warehouse
-<a href="https://github.com/MarteOued/hospital-bi-warehouse">
-  <img src="https://img.shields.io/badge/View_Repo-→-06A77D?style=for-the-badge" />
-</a>
-
-> **Système décisionnel hospitalier complet**
-> ETL Python + modèle en étoile + 3 dashboards Tableau.
-
-⭐ **1 table de faits + 6 dimensions** (Patients, Docteurs, Services, Temps, Diagnostic, Traitement)
-📊 **3 dashboards** : Vue Globale, Médicale, Financière
-🔬 **Pipeline ETL complet** sur 43 108 lignes brutes
-
-`Python` · `Pandas` · `Tableau` · `Star Schema` · `OLAP`
-
-</td>
 
 <td width="50%" valign="top">
 
@@ -214,16 +283,13 @@
 > **Moteur de recherche TF-IDF from scratch**
 > Indexation et ranking sur Reddit + Arxiv autour de l'IA.
 
-🔡 **TF-IDF implémenté à la main** (pas de scikit-learn pour l'indexation)
-🏗️ **Architecture POO** : Singleton + Factory pattern
+🔡 **TF-IDF implémenté à la main**
+🏗️ **Architecture POO** : Singleton + Factory
 📐 **Similarité cosinus** pour le ranking
 
 `Python` · `NLP` · `TF-IDF` · `Streamlit` · `Plotly`
 
 </td>
-
-</tr>
-<tr>
 
 <td width="50%" valign="top">
 
@@ -235,13 +301,16 @@
 > **App full-stack temps réel pour équipes agiles**
 > Estimation collaborative avec WebSocket + 2 modes de vote.
 
-⚡ **Real-time** via Socket.io · multi-joueurs synchrones
-🗳️ **Modes Strict (unanimité) et Moyenne** (Fibonacci)
-☕ **Pause Café** avec sauvegarde automatique de session
+⚡ **Socket.io** · multi-joueurs synchrones
+🗳️ **Modes Strict et Moyenne** (Fibonacci)
+☕ **Pause Café** avec sauvegarde de session
 
 `React` · `Node.js` · `Socket.io` · `Tailwind` · `Jest`
 
 </td>
+
+</tr>
+<tr>
 
 <td width="50%" valign="top">
 
@@ -250,12 +319,12 @@
   <img src="https://img.shields.io/badge/View_Live-→-F18F01?style=for-the-badge" />
 </a>
 
-> **Vitrine de tous mes projets data &amp; dev**
+> **Vitrine de mes projets data & dev**
 > Site React/Vite responsive avec animations et démos vidéo.
 
-🎨 **Design moderne** : Tailwind + Framer Motion
-🎬 **Démos YouTube embarquées** pour chaque projet
-📱 **100% responsive** mobile-first
+🎨 **Tailwind + Framer Motion**
+🎬 **Démos vidéo** pour les projets clés
+📱 **100% responsive**
 
 `React 19` · `Vite` · `Tailwind` · `Framer Motion`
 
@@ -266,41 +335,38 @@
 
 ---
 
-## 💼 Mission en cours
-
-<div align="center">
-
-### 🚀 Stagiaire Full-Stack Python & Data Science @ Oued Service
-
-</div>
+## 💼 Expériences
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🎯 Mes missions actuelles
+#### 🚀 Stagiaire Développeuse Full-Stack & Data · Oued Services
+📍 Le Blanc-Mesnil · 📅 Mai — Août 2026
 
-- 🔧 **Refactorisation** d'une application FastAPI (architecture, sécurité, tests)
-- 📊 **Analyse exploratoire** des données ventes, stocks, clients
-- 📈 **Définition des KPI métiers** de pilotage opérationnel
-- 🤖 **Modèle de prévision des ventes** (Scikit-Learn, séries temporelles)
-- 🚨 **Détection d'anomalies** sur les flux de transactions
-- ⚡ **Intégration prototype IA** dans dashboard Streamlit
+- 🧾 **Développement solo** et **mise en production** d'une application de gestion de restaurant : caisse POS, cuisine KDS temps réel (WebSocket), stocks, clients, livraisons, trésorerie
+- 📈 **Module de prévisions financières** multi-scénarios (pessimiste, réaliste, optimiste), seuil de rentabilité et dashboard analytique
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django_REST-092E20?style=flat&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-#### 🛠️ Stack utilisée
+#### 📊 Stagiaire Data & Analyse · STIB (Bruxelles)
+📍 Bruxelles, Belgique · 📅 Juin — Juillet 2025
 
+- 🚇 **Analyse des données** de fréquentation et de ponctualité du réseau
+- 📉 **Tableaux de bord** opérationnels et indicateurs clés
+- 🧹 **Extraction, nettoyage et transformation** de données multi-sources (SQL, Python, Excel)
+
+![SQL](https://img.shields.io/badge/SQL_/_PL--SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-📍 Blanc-Mesnil, Île-de-France
-📅 Avril 2026 — En cours
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 </td>
 </tr>
@@ -308,15 +374,15 @@
 
 ---
 
-## 💼 Looking for Alternance — September 2026
+## 💼 Looking for an Internship — March 2027
 
 <div align="center">
 
 ### 🎯 Postes ciblés
-**Data Scientist** · **Data Analyst** · **ML Engineer** · **Data Engineer**
+**Data Scientist** · **ML / IA** · **Data Analyst / BI**
 
-### 📅 Rythme
-**3 semaines en formation** / 2 semaines en entreprise · Temps plein dès juillet 2026
+### 📅 Durée
+**Stage de 4 à 6 mois** · Disponible à partir de **mars 2027**
 
 ### 📍 Mobilité
 **France entière** · Sur site, hybride ou remote
